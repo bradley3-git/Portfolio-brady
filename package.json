@@ -1,0 +1,23 @@
+{
+  "name": "bradley-porfolio-2",
+  "version": "1.0.0",
+  "description": "mon portfolio avec un design modern dynamique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradley3-git/Portfolio-brady.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradley3-git/Portfolio-brady/issues"
+  },
+  "homepage": "https://github.com/bradley3-git/Portfolio-brady#readme",
+  "dependencies": {
+    "puppeteer": "^24.37.5"
+  }
+}
